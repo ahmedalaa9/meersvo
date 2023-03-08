@@ -1,0 +1,19 @@
+@media screen and (min-width: 310px) {
+  .container {
+    max-width: 94%;
+    margin: 0 auto;
+  }
+}
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 92%;
+    margin: 0 auto;
+  }
+}
+// min 1920{1800}4k <<
+@media screen and (min-width: 1920px) {
+  .container {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+}
